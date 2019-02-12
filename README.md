@@ -8,4 +8,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Douglas Cristiano. <br>
 <b> Objetivo: </b>Mapear e mostrar os principais pontos de lazer do Recife; <br>
 <b> Funcionalidades: </b>Notícias com eventos na região, Portal de denúncias para o usuário relatar problemas nos parques, museus e mais locais, Principais parques, museus, teatros e também projetos sociais com seus respectivos cronogramas e funcionalidades. <br>
-<b>Inovação: </b>Geolocalização na versão do app, mostrando locais próximos onde estão acontecendo atividades. <br>
